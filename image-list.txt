@@ -32,4 +32,4 @@ ass.png>O
 ss.jpg>O
 babi.png>O
 Papitas.png>O
-punch.png>O²
+punch.png>O
