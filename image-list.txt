@@ -20,6 +20,7 @@ twige2.png>N
 twige3.jpg>N
 twige4.png>N
 uzero.png>N
+minus.png>N
 ane.png>C
 galagang.png>C
 gauntlet.png>C
