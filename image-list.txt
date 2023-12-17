@@ -2,6 +2,8 @@ acid.png>N
 birthday.png>N
 Cola.jpg>N
 cola2.png>N
+cola3>O
+cola4>O
 god.jpg>N
 heavens.png>N
 jewel.png>N
