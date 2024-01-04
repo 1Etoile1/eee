@@ -4,6 +4,5 @@ function onCreate(){
 }
 
 function onUpdate(){
-    gallery.curSelected = 3;
-    gallery.changeSelection(0);
+    gallery.imagesText.alpha = 0.5;
 }
