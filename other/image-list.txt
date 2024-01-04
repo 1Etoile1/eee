@@ -5,3 +5,4 @@ ss.jpg
 babi.png
 Papitas.png
 punch.png
+animTest.spriteSheet
