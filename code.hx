@@ -1,4 +1,4 @@
-var SHIT:FlxSprite;
+/*var SHIT:FlxSprite;
 
 function afterLoad(){
     SHIT.setGraphicSize(400,400); 
@@ -15,3 +15,5 @@ function onCreate(){
     });
     gallery.add(SHIT);
 }
+this cool shit
+*/
