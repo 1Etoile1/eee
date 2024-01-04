@@ -1,4 +1,4 @@
-var SHIT;
+var SHIT:FlxSprite;
 
 function afterLoad(){
     SHIT.setGraphicSize(400,400); 
