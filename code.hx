@@ -1,6 +1,6 @@
-var SHIT:FlxSprite;
+var SHIT;
 
-public static function afterLoad(){
+public function afterLoad(){
     SHIT.setGraphicSize(400,400); 
     SHIT.updateHitBox();   
     SHIT.screenCenter();
