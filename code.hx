@@ -1,8 +1,6 @@
 function onCreate(){
-    fucks('gay');
-    gallery.bg.alpha = 0.5;
-}
-
-function onUpdate(){
-    gallery.imagesText.alpha = 0.5;
+    var SHIT = new FlxSprite(0,0);
+    SHIT.makeGraphic(200,200);
+    SHIT.screenCenter();
+    gallery.add(SHIT);
 }
