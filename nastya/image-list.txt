@@ -21,4 +21,4 @@ twige3.jpg
 twige4.png
 uzero.png
 minus.png
-cool_pulsh.spriteSheet
+cool_plush.spriteSheet
