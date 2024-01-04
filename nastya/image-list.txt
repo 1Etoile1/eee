@@ -8,7 +8,7 @@ jewel.png
 kiwanako.png
 lavenderflamess.png
 lc.jpg
-mia.png
+mia.png>mia
 mia2.png
 mia3.png
 mia4.jpg
@@ -21,4 +21,4 @@ twige3.jpg
 twige4.png
 uzero.png
 minus.png
-cool_plush.spriteSheet>48
+cool_plush.spriteSheet
