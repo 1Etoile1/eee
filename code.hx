@@ -4,5 +4,5 @@ function onCreate(){
 }
 
 function onUpdate(){
-    gallery.curSelected = 3;
+    FlxG.camera.flash();
 }
