@@ -1,6 +1,6 @@
 var SHIT;
 
-public function afterLoad(){
+function afterLoad(){
     SHIT.setGraphicSize(400,400); 
     SHIT.updateHitBox();   
     SHIT.screenCenter();
