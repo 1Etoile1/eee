@@ -1,9 +1,9 @@
 var SHIT:FlxSprite;
 
 function afterLoad(){
-    /*SHIT.setGraphicSize(400,400); 
+    SHIT.setGraphicSize(400,400); 
     SHIT.updateHitBox();   
-    SHIT.screenCenter();*/
+    SHIT.screenCenter();
     trace('woah that worked!!');
 }
 
