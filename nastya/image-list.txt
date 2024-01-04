@@ -8,7 +8,7 @@ jewel.png
 kiwanako.png
 lavenderflamess.png
 lc.jpg
-mia.png>mia
+mia.png
 mia2.png
 mia3.png
 mia4.jpg
